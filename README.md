@@ -24,6 +24,3 @@ You can download it directly from [here](http://www.censusindia.gov.in/2011censu
 
 #### Urban to Rural ratio plot 
 ![plot](./plots/ur_ratio.png)
-
-
-
