@@ -13,14 +13,17 @@ You can download it directly from [here](http://www.censusindia.gov.in/2011censu
 
 ## Plots
 
-#### Population plot by age
-![population by age](./plots/pop_by_age.png)
+#### Population plot 
+![plot](./plots/pop_by_age.png)
 
-#### Geneder Population difference plot by age ( Female - Male )
-![population by age](./plots/gender_pop_diff_by_age.png)
+#### Geneder Population difference plot ( Female - Male )
+![plot](./plots/gender_pop_diff_by_age.png)
 
-#### Sex ratio plot by age
-![population by age](./plots/sex_ratio_by_age.png)
+#### Sex ratio plot
+![plot](./plots/sex_ratio_by_age.png)
+
+#### Urban to Rural ratio plot 
+![plot](./plots/ur_ratio.png)
 
 
 
