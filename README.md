@@ -22,5 +22,5 @@ You can download it directly from [here](http://www.censusindia.gov.in/2011censu
 #### Sex ratio plot
 ![plot](./plots/sex_ratio_by_age.png)
 
-#### Urban to Rural ratio plot 
+#### Urban to rural population ratio plot 
 ![plot](./plots/ur_ratio.png)
